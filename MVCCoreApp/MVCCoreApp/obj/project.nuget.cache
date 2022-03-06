@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjQ8uAzUkBvIMz2RtHt32vm7kKI/g+tefU/wjFReHIZpYSmLGYA4oXEKHwQX5T0wWokXU8lHAe9+hoglipgxtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\GITHUB\\MVCCoreApp\\MVCCoreApp\\MVCCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sranj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,7 +12,8 @@ using System.Threading.Tasks;
 namespace MVCCoreApp
 {
     public class Startup
-    {
+    {    
+        // Constructor 
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
